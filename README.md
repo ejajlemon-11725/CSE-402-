@@ -12,7 +12,7 @@ A collection of **Operating Systems Laboratory** programs, experiments, source c
 | **Department**    | Computer Science & Engineering   |
 | **Course**        | CSE 402 - Operating Systems Lab  |
 | **Student**       | Ejaj Ahmood Lemon                |
-| **Student ID**    | 22101160                         |
+| **Student ID**    | 23101160                         |
 | **Section**       | C-2                              |
 | **Semester**      | 4th Year, 1st Semester           |
 | **Semester Term** | Spring 2026                      |
